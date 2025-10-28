@@ -1,0 +1,3 @@
+- See the pdf for explanation
+- Code may still contain bugs
+- Mostly AI-Generated
